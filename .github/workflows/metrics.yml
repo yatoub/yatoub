@@ -65,7 +65,7 @@ jobs:
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_repositories: yes
-          plugin_repositories_featured: [yatoub/dicecord, yatoub/loki, yatoub/Log4jVulnChecker, yatoub/payloadPacker]
+          plugin_repositories_featured: yatoub/dicecord, yatoub/loki, yatoub/Log4jVulnChecker, yatoub/payloadPacker
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
           plugin_stars: yes
