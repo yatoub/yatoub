@@ -1788,7 +1788,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>extremeshok/xshok-proxmox</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">proxmox (pve) post installation optimizing and helper scripts</div>
@@ -1841,7 +1841,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tteck/Proxmox</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxmox Helper Scripts</div>
@@ -2625,14 +2625,14 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2022, 23:15:47 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Nov 2022, 00:16:27 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
