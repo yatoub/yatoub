@@ -1782,7 +1782,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pterm/cli-template</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚗ The most advanced CLI template on earth! Featuring automatic releases, website generation and a custom CI-System out of the box.</div>
@@ -1835,7 +1835,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pterm/pterm</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.</div>
@@ -2571,7 +2571,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.35m out of 380m repositories</span>
+                                    <span class="gh">ranked 4.27m out of 380m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2656,7 +2656,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2023, 22:12:56 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Feb 2023, 23:13:59 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
