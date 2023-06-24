@@ -2542,7 +2542,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.61m out of 410m repositories</span>
+                                    <span class="gh">ranked 4.66m out of 410m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2631,7 +2631,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">fc9dad7b</span>
-                            <span class="code">public/fr/index.html</span>
+                            <span class="code">public/404.html</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -2642,7 +2642,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -95,7 +95,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &lt;span class="header__right"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">            &lt;nav class="menu"&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;ul class="menu__inner"&gt;&lt;li&gt;&lt;a href="https://pcollin.fr/fr/cv/CV-paul-collin.pdf"&gt;CV&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://pcollin.fr/fr/posts/"&gt;Posts&lt;/a&gt;&lt;/li&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;ul class="menu__inner"&gt;&lt;li&gt;&lt;a href="https://pcollin.fr/fr/cv"&gt;CV&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://pcollin.fr/fr/posts/"&gt;Posts&lt;/a&gt;&lt;/li&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;/ul&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/nav&gt;<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -93,7 +93,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &lt;span class="header__right"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">            &lt;nav class="menu"&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;ul class="menu__inner"&gt;&lt;li&gt;&lt;a href="https://pcollin.fr/cv/CV-paul-collin.pdf"&gt;CV&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://pcollin.fr/posts/"&gt;Posts&lt;/a&gt;&lt;/li&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;ul class="menu__inner"&gt;&lt;li&gt;&lt;a href="https://pcollin.fr/cv"&gt;CV&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://pcollin.fr/posts/"&gt;Posts&lt;/a&gt;&lt;/li&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;/ul&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/nav&gt;<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2664,7 +2664,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2023, 10:18:16 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Jun 2023, 11:13:49 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
