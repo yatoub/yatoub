@@ -1790,7 +1790,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lgaboury/Sway-Waybar-Install-Script</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This script installs sway window manager and waybar on an Arch-Linux base system.</div>
@@ -2430,7 +2430,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.35m out of 49.9m repositories</span>
+                                    <span class="gh">ranked 3.26m out of 42.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2578,14 +2578,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2023, 09:18:07 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2023, 10:14:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
