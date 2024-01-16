@@ -1840,7 +1840,7 @@
                                         <span>starred 24 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Le but de ce wiki et de ce script est d'installer un Arch Linux de base avec un ensemble minimal de paquets, adapté à nos besoins spécifiques.</div>
+                                <div class="field description">Le but de ce wiki et de ce script est d'installer une Arch Linux de base avec un ensemble minimal de paquet, adapté à nos besoins spécifiques.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2362,7 +2362,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.41m out of 51.4m repositories</span>
+                                    <span class="gh">ranked 3.41m out of 55.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2510,14 +2510,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2024, 12:12:12 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2024, 13:27:14 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
