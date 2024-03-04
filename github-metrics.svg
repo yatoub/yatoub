@@ -1785,7 +1785,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JaKooLit/Hyprland-Dots</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hyprland dots, used as main repo for all my Hyprland Install Scripts.</div>
@@ -2056,7 +2056,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.612594113620816 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.697467488021914 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2358,7 +2358,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.44m out of 72m repositories</span>
+                                    <span class="gh">ranked 3.44m out of 71m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2513,7 +2513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2024, 18:14:07 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2024, 19:16:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
