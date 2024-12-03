@@ -402,7 +402,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="141.5270063043108" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="141.5270063043108" y="0" width="116.67089345445741" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="258.1978997587682" y="0" width="76.35906771529265" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="258.1978997587682" y="0" width="76.35906771529265" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="334.55696747406085" y="0" width="41.384365667961006" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="375.94133314202185" y="0" width="30.215924886334086" height="8" fill="#c6538c"/>
                     <rect mask="url(#languages-bar)" x="406.1572580283559" y="0" width="29.720493942301655" height="8" fill="#f1e05a"/>
@@ -424,7 +424,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2372,7 +2372,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.65m out of 213m repositories</span>
+                                    <span class="gh">ranked 3.65m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2520,14 +2520,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 13:36:06 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 14:28:12 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
